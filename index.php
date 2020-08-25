@@ -122,5 +122,8 @@ if(!empty($videoId))
 <h3>Thumbnail Image:</h3>
 <img src:"https://img.youtube.com/vi/<?php $videoId?>/
 hqdefault.jpg" width="250">
+  <?php
+}
+  ?>
 </body>
 </html>
